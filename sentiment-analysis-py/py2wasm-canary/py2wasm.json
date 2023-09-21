@@ -1,0 +1,14 @@
+{
+  "name": "py2wasm",
+  "version": "canary",
+  "spinCompatibility": ">=1.5",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "file:///Users/j12r/Downloads/py2wasm-canary-macos-aarch64/py2wasm-canary-macos-aarch64.tar.gz",
+      "sha256": "20e7d4bca7bb194a44ad0803ef7f85f4120152d8af2a7ee3a1610bce2b0cca89"
+    }
+  ]
+}
